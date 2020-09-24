@@ -1,8 +1,10 @@
 <?php
 print "Hola Mundo" . PHP_VERSION . "\n";
 ?>
+<h1>
 <?php
-$ip = gethostbyname('www.example.com');
+$ip = getenv('HOSTNAME);
 
 echo $ip;
-?>
+?> 
+</h1>
