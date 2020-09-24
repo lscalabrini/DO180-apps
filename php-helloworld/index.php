@@ -1,3 +1,8 @@
 <?php
-print "HOLA MUNDO!!!! BUILD 2 ---- La versión de PHP es " . PHP_VERSION . "\n";
+print "Hola Mundo" . PHP_VERSION . "\n";
+?>
+<?php
+$ip = gethostbyname('www.example.com');
+
+echo $ip;
 ?>
