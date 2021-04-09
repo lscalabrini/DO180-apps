@@ -3,7 +3,7 @@ print "Sitio web de prueba. Versión de PHP: " . PHP_VERSION . "\n";
 ?>
 <h1>  La solicitud está siendo procesada por el pod:   
  
- MODIFICACION VERSION 3.0 
+ MODIFICACION VERSION 4.0 
  
 <?php
 $ip = getenv('HOSTNAME');
