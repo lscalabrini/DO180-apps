@@ -1,5 +1,5 @@
 <?php
-print "Sitio web de prueba VERSION 5.0 . Versión de PHP: " . PHP_VERSION . "\n";
+print "Sitio web de prueba VERSION 10.0 . Versión de PHP: " . PHP_VERSION . "\n";
 ?>
 <h1>  La solicitud está siendo procesada por el pod:   
  
